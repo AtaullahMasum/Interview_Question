@@ -1,2 +1,2 @@
-*.exe
-*.o
+/Data_structure/Array/*.exe
+/Data_structure/Array/*.o
